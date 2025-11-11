@@ -1,0 +1,55 @@
+body{
+  font-family: sans-serif;
+  background-color:#b5f7f5 ;
+  margin:0px;
+}
+
+img{
+    width:400px;
+}
+/*Зроби цей сайт красивим 😉*/
+header{
+    background-color:#115396;
+    padding:20px;
+    color:white;
+}
+h1,h3{
+    text-align: center;
+}
+nav{
+    text-align: center;
+    padding:10px;
+}
+a{
+    color:red;
+    font-size:18px;
+    padding: 5px;
+    
+}
+p{
+    font-size:18px;
+    padding: 10px;
+}
+.p{
+    text-align: center;
+}
+.iframe{
+    text-align: center;
+    padding: 10px;
+}
+.img{
+    text-align: center;
+}
+.spiderman{
+    text-align: center;
+    font-size:18px;
+}
+main{
+    padding:20px;
+}
+footer{
+    background-color: #55a7fa;
+    padding:20px;
+}
+
+    
